@@ -20,3 +20,9 @@ person={
 // person = {
 //   isEmployed: true,
 // }
+
+
+let pessoa: {
+  name: string,
+  age: number,
+}[];
