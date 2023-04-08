@@ -32,3 +32,11 @@ let pessoa: {
 let multypes: string| number='text'
 
 multypes=123
+
+type Animal={
+  name: string,
+  cor: string,
+  altura: number
+}
+
+let animar: Animal;
