@@ -26,3 +26,9 @@ let pessoa: {
   name: string,
   age: number,
 }[];
+
+//interfaces
+
+let multypes: string| number='text'
+
+multypes=123
